@@ -1,1 +1,14 @@
-site_name: My Docs
+site_name: ConDeBot Documentation
+pages:
+  - Home: index.md
+  - Getting Started:
+    - Installation: install.md
+    - Configuration : config.md
+    - Usage: usage.md
+  - Documentation:
+    - Plugins: plugins.md
+    - Make your own plugin: custom_plugins.md
+  - Other:
+    - Changelog: changelog.md
+    - About: about.md
+theme: readthedocs
