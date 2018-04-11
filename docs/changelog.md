@@ -1,4 +1,4 @@
-## Version 1.0 (xx/03/2017)
+## Version 1.0 (11/04/2018)
 - Bot rewrited
 - Plugins can now reserve keywords
 - Project's arborescence improved
