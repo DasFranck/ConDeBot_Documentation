@@ -1,3 +1,10 @@
+## Dev version
+- More events handled by ConDeBot and Plugin classes, mainly related to reactions.
+- Replier plugin
+    - Lock function fixed
+- Ops plugin
+    - Ops file created if it doesn't exist
+
 ## Version 1.0 (11/04/2018)
 - Bot rewrited
 - Plugins can now reserve keywords
