@@ -1,9 +1,12 @@
-## Dev version
-- More events handled by ConDeBot and Plugin classes, mainly related to reactions.
+## Version 1.
+- New plugins:
+    - Roll: Roll the dices thanks to [dice library](https://github.com/borntyping/python-dice)
+    - Prometheus (Still WIP): Prometheus metrics and monitoring
 - Replier plugin
     - Lock function fixed
 - Ops plugin
     - Ops file created if it doesn't exist
+- More events handled by ConDeBot and Plugin classes, mainly related to reactions.
 
 ## Version 1.0 (11/04/2018)
 - Bot rewrited
